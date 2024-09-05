@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 🤝 I’m looking for help with WowUp
-
 - 💬 Ask me about **MEVN and MERN**
 
 - 📫 How to reach me **huyncft@gmail.com**
